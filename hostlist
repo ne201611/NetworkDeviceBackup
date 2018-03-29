@@ -1,0 +1,3 @@
+Type,Name,Host,Username,Password,Enable,Group
+,hostname,ipaddress,username,password,enablepassword,group
+s,hostname,ipaddress,username,password,enablepassword,group
