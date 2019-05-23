@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#coding:utf-8
+#python2.7下运行正常
 import sys, os, telnetlib, csv, paramiko, subprocess
 import datetime, time, socket
 
